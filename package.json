@@ -1,0 +1,16 @@
+{
+  "name": "airline-booking",
+  "version": "1.0.0",
+  "description": "This is a basic airline-booking app in express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "author": "faiz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "http-status-codes": "^2.3.0"
+  }
+}
